@@ -12,7 +12,7 @@ Este proyecto se centra en la creación de un análisis exploratorio de datos y 
 
 Tener instalado Python y un editor de texto como Visual Studio Code.
 
-Clonar el repositorio del link https://github.com/tefisimo/data_analytics_telecommunications
+Clonar el repositorio del link https://github.com/tefisimo/Data_analytics_telecommunications
 
 El cual posee los archivos:
 * README.md : Descripción del proyecto.
@@ -35,7 +35,7 @@ Asegúrate de ejecutar este comando desde la ubicación raíz del proyecto, dond
 
 El proceso de ETL incluyó:
 
-* Limpieza de las columnas para obtener información de acceso y velocidad por provincia.
+* Limpieza de las columnas en las diferentes hojas del dataset para obtener información de acceso y velocidad por provincia.
 * Formateo de valores en las columnas de **`Provincia`**, **`Tecnologia`**, **`Trimestre`**, **`Año`**  y cálculo de nuevas columnas para análisis de KPIs.
 * Filtrado e imputación de valores sobre los valores nulos para mantener integridad en el análisis.
 
@@ -81,7 +81,7 @@ Funcionalidades de Interactividad
 * Gráficos de tendencias y comparativos: facilitan la visualización de los patrones y el crecimiento de los indicadores en el tiempo.
 
 ## Pagina Web del Deploy en Streamlit
-https://dataanalyticstelecommunications-5sfokie7trl9cw6yvxesnu.streamlit.app/
+https://tefisimo-data-analytics-telecommunications-introduccion-ieaggi.streamlit.app/Ingresos
 
 ## Contacto
 Email: gustavoadolfogonz@gmail.com
