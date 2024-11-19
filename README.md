@@ -21,6 +21,10 @@ El cual posee los archivos:
 * Introduccion.py: Archivo principal para ejecutar la aplicación en Streamlit. 
 * requirements.txt: Librerías necesarias para el proyecto.
 
+Asi como tambien las carpetas:
+* pages: Se encuentran las paginas relacionadas al archivo Introduccion.py
+* Imagen: Se encuentra el archivo .gif del encabezado del dashboard
+
 ## Instalación
 
 Instalar dependencias ejecutando en una terminal: pip install -r requirements.txt
@@ -45,12 +49,12 @@ El análisis exploratorio fue clave para entender la relación entre accesos, ve
 
 ## KPIs Desarrollados
 
-KPI 1: Aumento de Ingresos
+KPI 1: Incremento de Accesos por cada 100 Hogares
 
-Objetivo: Incrementar en un 4% los ingresos trimestrales por millón de accesos en tecnologías avanzadas.
+Objetivo: Aumentar en un 2% la penetración de accesos a Internet por cada 100 hogares, por provincia, para el próximo trimestre
 
-* Visualización: Un gráfico de línea muestra la tendencia de ingresos por trimestre, con filtros de año y trimestre.
-* Hallazgo clave: Existe una correlación directa entre ingresos y accesos en tecnologías avanzadas.
+* Visualización: Un gráfico de barras por provincia permite observar la distribución de accesos.
+* Hallazgo clave: Las provincias en promedio tienen un mayor acceso en tecnologías avanzadas, aunque algunas aún necesitan mejorar.
 
 KPI 2: Velocidad Media de Bajada
 
@@ -59,12 +63,12 @@ Objetivo: Incrementar en un 5% la velocidad media de descarga en todas las provi
 * Visualización: Un medidor muestra la velocidad media por provincia, junto a un gráfico de dispersión que permite comparar con el promedio nacional.
 * Hallazgo clave: Provincias con menor acceso presentan una velocidad media más baja, aunque han mostrado incrementos graduales a lo largo del tiempo.
 
-KPI 3: Incremento de Accesos por cada 100 Hogares
+KPI 3: Aumento de Ingresos
 
-Objetivo: Aumentar en un 2% la penetración de accesos a Internet por cada 100 hogares, por provincia, para el próximo trimestre
+Objetivo: Incrementar en un 4% los ingresos trimestrales por millón de accesos en tecnologías avanzadas.
 
-* Visualización: Un gráfico de barras por provincia permite observar la distribución de accesos.
-* Hallazgo clave: Las provincias en promedio tienen un mayor acceso en tecnologías avanzadas, aunque algunas aún necesitan mejorar.
+* Visualización: Un gráfico de línea muestra la tendencia de ingresos por trimestre, con filtros de año y trimestre.
+* Hallazgo clave: Existe una correlación directa entre ingresos y accesos en tecnologías avanzadas.
 
 ## Implementación en Streamlit
 Ejecución
@@ -76,8 +80,8 @@ Funcionalidades de Interactividad
 * Medidores de progreso: muestran el cumplimiento actual en relación con el objetivo de cada KPI.
 * Gráficos de tendencias y comparativos: facilitan la visualización de los patrones y el crecimiento de los indicadores en el tiempo.
 
-## Pagina Web del Deploy
-https://
+## Pagina Web del Deploy en Streamlit
+https://dataanalyticstelecommunications-5sfokie7trl9cw6yvxesnu.streamlit.app/
 
 ## Contacto
 Email: gustavoadolfogonz@gmail.com
