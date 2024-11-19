@@ -1,6 +1,6 @@
 ![DataConnect](./Imagen/Internet%20solutions.gif)
 
-# Proyecto Individual: Análisis Exploratorio y Dashboard de KPIs
+# Proyecto Individual: Análisis Exploratorio de Data de Telecomunicaciones en Argentina
 
 ## Analista de Datos: Gustavo Gonzalez
 

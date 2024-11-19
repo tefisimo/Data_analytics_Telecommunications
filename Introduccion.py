@@ -21,7 +21,9 @@ st.sidebar.header("🌐 Bienvenidos")
 st.sidebar.markdown("""\nCon este Dashboard tendrás acceso a datos actualizados y análisis de información clave acerca del ámbito de telecomunicaciones en Argentina desde el año 2014 al 2024. 
                     Esto con el objetivo de poder orientar e implementar decisiones que permitan mejorar el enfoque de inversiones, la calidad del servicio y el acceso del servicio en la población.
                     \nUtiliza los filtros y gráficos interactivos para personalizar tu vista. 
-                    \nNo dudes en consultar cualquier duda o generar alguna acotación, sera bien recibida.""")
+                    \nNo dudes en consultar cualquier duda o generar alguna acotación, sera bien recibida.
+                    \n Contacto: gustavoadolfogonz@gmail.com
+                    """)
 
 # Sección de Descripción de los KPIs
 st.subheader("Descripción del Proyecto")
