@@ -2,7 +2,7 @@
 
 # Proyecto Individual: Análisis Exploratorio y Dashboard de KPIs
 
-## Alumno: Gustavo Gonzalez
+## Analista de Datos: Gustavo Gonzalez
 
 ## Introduccion
 
