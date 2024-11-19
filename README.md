@@ -12,7 +12,7 @@ Este proyecto se centra en la creación de un análisis exploratorio de datos y 
 
 Tener instalado Python y un editor de texto como Visual Studio Code.
 
-Clonar el repositorio del link https://github.com/tefisimo/pi02
+Clonar el repositorio del link https://github.com/tefisimo/data_analytics_telecommunications
 
 El cual posee los archivos:
 * README.md : Descripción del proyecto.
