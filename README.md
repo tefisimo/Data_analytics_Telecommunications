@@ -39,6 +39,8 @@ El proceso de ETL incluyó:
 * Formateo de valores en las columnas de **`Provincia`**, **`Tecnologia`**, **`Trimestre`**, **`Año`**  y cálculo de nuevas columnas para análisis de KPIs.
 * Filtrado e imputación de valores sobre los valores nulos para mantener integridad en el análisis.
 
+Nota: Cabe destacar que no se consideró la presencia de valores outliers ya que la distribución de los datos por provincia era muy amplia y diversa. Lo que podría representarse dentro de un rango de valores promedio para una provincia, podría estar fuera para otra provincia. 
+
 ## Exploración de Datos (EDA)
 
 El análisis exploratorio fue clave para entender la relación entre accesos, velocidad y ingresos. Algunos hallazgos:
