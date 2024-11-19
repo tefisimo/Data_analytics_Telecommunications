@@ -83,7 +83,7 @@ Funcionalidades de Interactividad
 * Gráficos de tendencias y comparativos: facilitan la visualización de los patrones y el crecimiento de los indicadores en el tiempo.
 
 ## Pagina Web del Deploy en Streamlit
-https://tefisimo-data-analytics-telecommunications-introduccion-ieaggi.streamlit.app/Ingresos
+https://tefisimo-data-analytics-telecommunications-introduccion-ieaggi.streamlit.app/
 
 ## Contacto
 Email: gustavoadolfogonz@gmail.com
